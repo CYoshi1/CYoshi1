@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CYoshi1
+- 👋 Hi, I’m Yash M.
 - 👀 I’m interested in creating things
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
